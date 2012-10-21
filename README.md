@@ -3,6 +3,7 @@ Gingerbread for Motorola MB611 (CM 2.3.7)
 Download:
 
 repo init -u git://github.com/shldol/android.git -b gingerbread
+
 repo sync
 
 Download RomManager (DELETED BY OUR BUILD SYSTEM)
